@@ -14,7 +14,9 @@ My name is Justine. I am a self-taught web developer who enjoys building interac
 <br/>
 </div>
 <div align="center">
-<h2>GitHub Stats:</h2>
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=000jc&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="GitHub Stats" /
+<h2>Portfolio Link (with Case Studies):</h2>
+<a href="https://low-ocelot-3bf.notion.site/Justine-P-389f9c84eacf803da334cf7831081d00" target="_blank">
+<img src="https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff" alt="Link to my Notion portfolio" />
+</a>
 </div>
 
